@@ -28,7 +28,8 @@
     "cordova-plugin-device",
     "cordova-plugin-network-information",
     "cordova-plugin-splashscreen",
-    "cordova-plugin-statusbar"
+    "cordova-plugin-statusbar",
+    "org.devgeeks.privacyscreen@0.2.0"
   ],
   "AndroidPermissions": [
     "android.permission.INTERNET",
